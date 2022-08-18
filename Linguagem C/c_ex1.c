@@ -6,7 +6,7 @@ int main ( ) {
 	double R = 10.0;
 	double A = PI * R * R;
 	
-	printf("Area = %f \n", A);
+	printf("Area = %f", A);
 	
 	return 0;
 	}

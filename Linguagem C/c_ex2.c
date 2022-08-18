@@ -3,8 +3,8 @@
 int main ( ) {
 	int  A = 10;
 	float B = 5.8;
-	double C = 5.97;
-	char X = 'X';
+	double C = 78.9;
+	char X = 'x';
 
 	printf("USCS - Computação\n\n");
 	printf("%d, %c, %f, %s", 40, 'a', 3.45, "Hello World...\n\n");

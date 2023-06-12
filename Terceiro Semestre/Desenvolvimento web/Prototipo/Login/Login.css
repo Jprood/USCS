@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    background-image: linear-gradient(rgba(124, 220, 214, 1), rgba(236, 208, 208, 1));
+    background-repeat: repeat-x;
+    height: 100vh;
+}
+
+.img{
+    width: 100px;
+    height: 150px;
+    display: block;
+    margin: 0px auto;
+    padding-top: 50px;
+}
+
+.textcontrole{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    margin-top: -5px;
+    margin-bottom: 30px;
+}
+
+.divlogin{
+    margin: auto;
+    width: max-content;
+}
+
+.textform{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 7px;
+    font-size: 15px;
+}
+
+.caixaform{
+    width: 185px;
+    height: 22px;
+    border-radius: 6px;
+    border-color: white;
+    border-style: solid;
+    margin-bottom: 25px;
+}
+
+.botao{
+    display: block;
+    margin: 0px auto;
+    width: 110px;
+    height: 27px;
+    border-radius: 9px;
+    border-style: none;
+    background-image: linear-gradient(to bottom right, rgba(106, 217, 203, 1), rgba(169, 236, 159, 1));
+    color: white;
+    font-size: 15px;
+    margin-bottom: 17px;
+    cursor: pointer;
+}
+
+.esqsenha{
+    display: block;
+    margin: 0px auto;
+    justify-content: center;
+    
+}
+a:link {
+    color: rgba(126, 126, 126, 1);
+    text-decoration: none;
+    cursor: pointer;
+}
